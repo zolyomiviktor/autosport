@@ -1,5 +1,6 @@
 f1
 monza
+hungaroring
 
 ferrari
 redbull
