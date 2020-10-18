@@ -2,6 +2,15 @@ f1
 monza
 hungaroring
 
+<<<<<<< .merge_file_a06132
 macao
 vila real
 sepang
+=======
+ferrari
+redbull
+mercédes
+elsõ csapat
+mercedes
+has
+>>>>>>> .merge_file_a08752
